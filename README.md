@@ -1,44 +1,64 @@
 # Minha vida acadêmica :white_check_mark:
-Repositório reservado para listar um pouco da minha `vida acadêmica`.
+Repositório reservado para listar um pouco da minha `vida acadêmica`. 📚
 
-## Cursos <a name="courses"></a> :pencil2: 
+## Index :pushpin:
+- [Educação Acadêmica](#educacao)
+- [Certificacao](#certificacao)
+- [Idiomas](#idiomas)
+- [Cursos](#cursos)
+
+## Educação Acadêmica <a name="educacao"></a> :mortar_board:
+
+- `Bacharelado em Engenharia de Computação` - Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas [Site](https://www.ifms.edu.br/campi/campus-tres-lagoas). 2019 - o momento.
+
+## Certificação <a name="certificacao"></a> :star:
+
+- AWS Certified Cloud Practitioner. `AWS`. Jun/2025. :paperclip: [Aqui](https://www.credly.com/badges/af820021-4d79-4758-b900-9773dd300b30/linked_in_profile)
+<img src="https://github.com/user-attachments/assets/fb8436ff-86de-41ce-b480-95effb6354aa" height=180 width=180>
+
+## Idiomas <a name="idiomas"></a> :round_pushpin:
+
+- **Inglês:** Nível intermediário
+- **Português:** Falante nativo
+
+## Cursos <a name="cursos"></a> :pencil2:
 Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com um total de `00 horas.`
 
-### Cursos de C e C++
+### C e C++
 - C: conhecendo a Linguagem das Linguagens. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-1/certificate)
 - C: avançando na linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-2/certificate)
 - C: recursos avançados da linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-3/certificate)
 
-### Cursos de NoSQL
+### NoSQL
 - Redis I: armazenando chaves e valores. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 20h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-1/certificate)
 - Redis II: estruturas e recursos na sua base NoSQL. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-2/certificate)
 
-### Cursos de Python web
+### Python
 - Python: começando com a linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-introducao-a-linguagem/certificate)
 - Python: avançando na linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-3-avancando-na-linguagem/certificate)
 - Python: entendendo a Orientação a Objetos. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-3-intro-orientacao-objetos/certificate)
 
-### Cursos de Excel
+### Excel
 - Excel: domine o editor de planilhas. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-introducao/certificate)
 - Funções com Excel: operações matemáticas e filtros. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-funcoes/certificate)
 - Excel procv: lógica booleana e busca por valores. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-procv/certificate)
 - Excel: tabelas dinâmicas e dashboards. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-tabelas-dinamicas/certificate)
 - Excel: criação de macros e automatização de tarefas. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-criacao-de-macros-automacao-de-tarefas/certificate)
 
-### Cursos de Softskills e Carreira
+### Softskills e Carreira
 - Hábitos: da produtividade às metas pessoais. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/habitos/certificate)
 - Produtividade: hábitos e práticas para o dia a dia. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/produtividade/certificate)
 
-### Cursos de Flutter
+### Flutter
 - Flutter: Widgets, Stateless, Stateful, Imagens e Animações. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 16h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/flutter-widgets-stateless-stateful-imagens-animacoes/certificate)
 - Flutter: Controller, navegação e estados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/flutter-controller-navegacao-estados/certificate)
 - Flutter: criando um app. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 15h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/flutter-crie-primeiro-app/certificate)
 
-### Cursos de Negociação e Comunicação
+### Negociação e Comunicação
 - Comunicação: como se expressar bem e ser compreendido. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/comunicacao/certificate)
 - Oratória parte 1: compartilhe ideias e histórias. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/oratoria-compartilhe-ideias/certificate)
 
-### Cursos de HTML e CSS
+### HTML e CSS
 - HTML5 e CSS3 parte 1: crie uma página da Web. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/html5-css3-primeiros-passos/certificate)
 - HTML5 e CSS3 parte 2: posicionamento, listas e navegação. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/html5-css3-posicionamento-listas-navegacao/certificate)
 - HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/html5-css3-formularios-tabelas/certificate)
@@ -49,7 +69,7 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com 
 - HTML e CSS: cabeçalho, footer e variáveis CSS. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 6h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/html-css-cabecalho-footer-variaveis-css/certificate)
 - HTML e CSS: trabalhando com responsividade e publicação de projetos. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 6h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/html-css-responsividade-publicacao-projetos/certificate)
 
-### Cursos de PHP
+### PHP
 - PHP: conceitos, lidando com dados, loops e mais. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 6h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/php-primeiros-passos/certificate)
 - PHP e MySQL: Criando uma webapp. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/php-mysql/certificate)
 
@@ -59,10 +79,10 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com 
 ### Cursos de Desenvolvimento de jogos
 - Unity parte 1: criação de um jogo de sobrevivência à zumbis para Web. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/criacao-de-jogos-com-unity/certificate)
 
-### Cursos de IA para Criativos
+### IA para Criativos
 - Inteligência artificial Generativa: Midjourney e ChatGPT. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/inteligencia-artificial-generativa-midjourney-chatgpt/certificate)
 
-### Cursos de Data Science
+### Data Science
 - Python para Data Science: primeiros passos. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-data-science-primeiros-passos/certificate)
 - Python para Data Science: trabalhando com funções, estruturas de dados e exceções. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate)
 - Clustering: extraindo padrões de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 9h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/cluster-analysis/certificate)
@@ -74,17 +94,17 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com 
 - Pandas: transformação e manipulação de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 6h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/pandas-transformacao-manipulacao-dados/certificate)
 - Pandas: limpeza e tratamento de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/pandas-limpeza-tratamento-dados/certificate)
 
-### Cursos de IA para Dados
+### IA para Dados
 - ChatGPT com Excel: começando a usar o chatGPT como assistente. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/chatgpt-excel-usar-chatgpt-assistente/certificate)
 - Machine Learning: utilizando ChatGPT como assistente. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/machine-learning-utilizando-chatgpt-assistente/certificate)
 
-### Cursos de Marketing Pessoal
+### Marketing Pessoal
 - LinkedIn: Como fazer o seu perfil trabalhar para você. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 4h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/linkedin-perfil-profissional/certificate)
 
-### Cursos de Design Gráfico
+### Design Gráfico
 - Canva: criando um currículo personalizado. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/canva-criando-curriculo-personalizado/certificate)
 
-### Cursos de Machine Learning
+### Machine Learning
 - Machine Learning: classificação com SKLearn. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/machine-learning-introducao-a-classificacao-com-sklearn/certificate)
 - Machine Learning: classificação por trás dos panos. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/machine-learning-classificacao-tras-panos/certificate)
 - Machine Learning: lidando com dados de muitas dimensões. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/reducao-dimensionalidade/certificate)
@@ -123,7 +143,7 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com 
 - Git e GitHub na Prática​. _Escola: [Staart](https://staart.com/)._ _Duração: 3h._ :paperclip: [Aqui](https://assets.staart.com/app/_k/c19228dc-c1b8-485a-9d67-e202cf52f31b/5286cb1e-96d7-4504-a66b-430262244dc8-496ce1bb-9dfc-48fa-91d7-db6bb375584b.pdf)
 - Deploy de aplicações React​. _Escola: [Staart](https://staart.com/)._ _Duração: 1h._ :paperclip: [Aqui](https://assets.staart.com/app/_k/c19228dc-c1b8-485a-9d67-e202cf52f31b/7cfc5e1c-49c4-4812-8c7a-6826141d3ee0-496ce1bb-9dfc-48fa-91d7-db6bb375584b.pdf)
 
-### Programação Frontend com ReactJS
+### Frontend com ReactJS
 - Fundamentos do React. _Escola: [Staart](https://staart.com/)._ _Duração: 3h._ :paperclip: [Aqui](https://assets.staart.com/app/_k/c19228dc-c1b8-485a-9d67-e202cf52f31b/afc1ef67-d0fa-4f96-824d-3dd90eab1c12-496ce1bb-9dfc-48fa-91d7-db6bb375584b.pdf)
 - Consumo de APIs com React. _Escola: [Staart](https://staart.com/)._ _Duração: 3h._ :paperclip: [Aqui](https://assets.staart.com/app/_k/c19228dc-c1b8-485a-9d67-e202cf52f31b/74924a45-f351-456c-8667-80cdfd29249d-496ce1bb-9dfc-48fa-91d7-db6bb375584b.pdf)
 - Autenticação e Armazenamento de Dados no React. _Escola: [Staart](https://staart.com/)._ _Duração: 2h._ :paperclip: [Aqui](https://assets.staart.com/app/_k/c19228dc-c1b8-485a-9d67-e202cf52f31b/e1ce993a-e3c7-458b-bc1f-3dfd5070fcfc-496ce1bb-9dfc-48fa-91d7-db6bb375584b.pdf)
