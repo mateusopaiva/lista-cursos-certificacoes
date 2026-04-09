@@ -22,24 +22,22 @@ Repositório reservado para listar um pouco da minha `vida acadêmica`. 📚
 - **Português:** Falante nativo
 
 ## Cursos <a name="cursos"></a> :pencil2:
-Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com um total de `00 horas.`
-
-- Curso. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 0h._ :paperclip: [Aqui](certificado)
+Abaixo está uma lista dos cursos que concluí. Atualmente, há `104` cursos com um total de `762 horas.`
 
 ### Business Intelligence
 - Power BI: aprofundando na linguagem DAX. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aprofundando-linguagem-dax/certificate)
-- Power BI: DAX contextos e iteração. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-dax-contextos-iteracao/certificate)
-- Dashboard com Power BI: visualizando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/dashboard-power-bi-visualizando-dados/certificate)
+- Power BI: DAX contextos e iteração. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-dax-contextos-iteracao/certificate)
+- Dashboard com Power BI: visualizando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/dashboard-power-bi-visualizando-dados/certificate)
 - Python e Power BI: analisando dados do mercado financeiro. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-power-bi-dados-mercado-financeiro/certificate)
 - Power BI: criando visuais customizados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-criando-visuais-customizados/certificate)
-- Power BI: aplicando a RLS. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-rls/certificate)
-- Power BI: aplicando DAX ao negócio. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-dax-negocio/certificate)
-- Power BI: modelagem de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-modelagem-dados/certificate)
-- Power BI: mergulhando na linguagem M. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-mergulhando-linguagem-m/certificate)
-- Power BI: visualizando e analisando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-visualizando-analisando-dados/certificate)
-- Power BI: construindo cálculos com Dax. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-construindo-calculos-dax/certificate)
-- Power BI Desktop: realizando ETL no Power Query. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-realizando-etl-power-query/certificate))
-- Power BI Desktop: construindo meu primeiro dashboard. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-construindo-meu-primeiro-dashboard/certificate))
+- Power BI: aplicando a RLS. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-rls/certificate)
+- Power BI: aplicando DAX ao negócio. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-dax-negocio/certificate)
+- Power BI: modelagem de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-modelagem-dados/certificate)
+- Power BI: mergulhando na linguagem M. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-mergulhando-linguagem-m/certificate)
+- Power BI: visualizando e analisando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-visualizando-analisando-dados/certificate)
+- Power BI: construindo cálculos com Dax. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-construindo-calculos-dax/certificate)
+- Power BI Desktop: realizando ETL no Power Query. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-realizando-etl-power-query/certificate))
+- Power BI Desktop: construindo meu primeiro dashboard. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-construindo-meu-primeiro-dashboard/certificate))
 
 ### SQL
 - SQLite online: conhecendo instruções SQL _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/sqlite-online-conhecendo-instrucoes-sql/certificate)
