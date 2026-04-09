@@ -24,14 +24,25 @@ Repositório reservado para listar um pouco da minha `vida acadêmica`. 📚
 ## Cursos <a name="cursos"></a> :pencil2:
 Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com um total de `00 horas.`
 
-### C e C++
-- C: conhecendo a Linguagem das Linguagens. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-1/certificate)
-- C: avançando na linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-2/certificate)
-- C: recursos avançados da linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-3/certificate)
+- Curso. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 0h._ :paperclip: [Aqui](certificado)
 
-### NoSQL
-- Redis I: armazenando chaves e valores. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 20h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-1/certificate)
-- Redis II: estruturas e recursos na sua base NoSQL. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-2/certificate)
+### Business Intelligence
+- Power BI: aprofundando na linguagem DAX. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aprofundando-linguagem-dax/certificate)
+- Power BI: DAX contextos e iteração. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-dax-contextos-iteracao/certificate)
+- Dashboard com Power BI: visualizando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/dashboard-power-bi-visualizando-dados/certificate)
+- Python e Power BI: analisando dados do mercado financeiro. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-power-bi-dados-mercado-financeiro/certificate)
+- Power BI: criando visuais customizados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-criando-visuais-customizados/certificate)
+- Power BI: aplicando a RLS. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-rls/certificate)
+- Power BI: aplicando DAX ao negócio. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-aplicando-dax-negocio/certificate)
+- Power BI: modelagem de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-modelagem-dados/certificate)
+- Power BI: mergulhando na linguagem M. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-mergulhando-linguagem-m/certificate)
+- Power BI: visualizando e analisando dados. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-visualizando-analisando-dados/certificate)
+- Power BI: construindo cálculos com Dax. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-construindo-calculos-dax/certificate)
+- Power BI Desktop: realizando ETL no Power Query. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-realizando-etl-power-query/certificate))
+- Power BI Desktop: construindo meu primeiro dashboard. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/power-bi-desktop-construindo-meu-primeiro-dashboard/certificate))
+
+### SQL
+- SQLite online: conhecendo instruções SQL _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/sqlite-online-conhecendo-instrucoes-sql/certificate)
 
 ### Python
 - Python: começando com a linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/python-introducao-a-linguagem/certificate)
@@ -44,6 +55,27 @@ Abaixo está uma lista dos cursos que concluí. Atualmente, há `00` cursos com 
 - Excel procv: lógica booleana e busca por valores. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-procv/certificate)
 - Excel: tabelas dinâmicas e dashboards. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-tabelas-dinamicas/certificate)
 - Excel: criação de macros e automatização de tarefas. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/excel-criacao-de-macros-automacao-de-tarefas/certificate)
+
+### AWS
+- Começando em Cloud: usando a AWS e explorando os recursos da nuvem como serviço. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/cloud-usando-aws-explorando-recursos-nuvem-servico/certificate))
+
+### Engenharia de Dados
+- Engenharia de Analytics: apresentando resultados com QuickSight. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/engenharia-analytics-apresentando-resultados-quicksight/certificate)
+- Engenharia de Analytics: construindo uma pipeline automatizada. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/engenharia-analytics-construindo-pipeline-automatizada/certificate))
+- Engenharia de Analytics: analisando dados com Amazon Athena e AWS Glue. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/engenharia-analytics-dados-amazon-athena-aws-glue/certificate))
+- Engenharia de Analytics: implementando um pipeline ETL com AWS Glue. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui]([certificado](https://cursos.alura.com.br/user/mateusopaiva/course/engenharia-analytics-pipeline-etl-aws-glue/certificate))
+
+### Estatística
+- Estatística com Python: frequências e medidas. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 12h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/estatistica-python-distribuicoes-e-medidas/certificate)
+
+### C e C++
+- C: conhecendo a Linguagem das Linguagens. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-1/certificate)
+- C: avançando na linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-2/certificate)
+- C: recursos avançados da linguagem. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/introducao-a-programacao-com-c-parte-3/certificate)
+
+### NoSQL
+- Redis I: armazenando chaves e valores. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 20h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-1/certificate)
+- Redis II: estruturas e recursos na sua base NoSQL. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 10h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/nosql-chave-valor-com-redis-2/certificate)
 
 ### Softskills e Carreira
 - Hábitos: da produtividade às metas pessoais. _Escola: [Alura](https://www.alura.com.br/)._ _Duração: 8h._ :paperclip: [Aqui](https://cursos.alura.com.br/user/mateusopaiva/course/habitos/certificate)
